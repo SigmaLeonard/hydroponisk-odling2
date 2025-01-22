@@ -1,4 +1,4 @@
-/* Grundläggande stilar */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,7 +8,7 @@ body {
     color: #333;
 }
 
-/* Navbar */
+
 .navbar {
     background-color: #333;
     color: white;
@@ -58,7 +58,7 @@ body {
     color: #ff6347;
 }
 
-/* Sektioner */
+
 section {
     padding: 20px;
     max-width: 800px;
@@ -68,7 +68,7 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     padding: 10px 0;
